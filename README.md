@@ -1,5 +1,6 @@
 # CampVue
 A mobile app for events and clubs using React Native
+
 Link to video demonstration: https://youtu.be/sGVjyH4BvJc
 
 
